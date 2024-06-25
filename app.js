@@ -1,7 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  /*
-    Falta conectarlo con git***************
-  */
+
   let width = 10; //# de cuadrados en el grid
   
   iniciarDivisionesDelGrid(width);
