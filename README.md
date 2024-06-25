@@ -5,3 +5,4 @@ El juego consiste en una serpiente, buscando encontrar manzanas y mientras lo ha
 
 La serpiente no puede salir del recuadro o golpearse así misma.
 
+![Snake](/images/readme_img.png)
